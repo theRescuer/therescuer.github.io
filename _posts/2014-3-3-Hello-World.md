@@ -5,7 +5,9 @@ published: true
 ---
 
 ### How fast can you get stuck in the traffic jam?
-[https://gph.is/2FbLJOO](https://gph.is/2FbLJOO "Via GIPHY")
+[https://gph.is/2FbLJOO](https://gph.is/2FbLJOO  "Via GIPHY")
+![Alt Text](https://media.giphy.com/media/woZGZyfrAe9i8kDODS/giphy.gif)
 
 ### How does a lock work?
 [https://gph.is/2yP8oL0](https://gph.is/2yP8oL0 "Via GIPHY")
+![Alt Text](https://media.giphy.com/media/SJVTezwIxUZkwMtEmI/giphy.gif)
