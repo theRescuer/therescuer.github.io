@@ -1,10 +1,8 @@
 ---
 layout: post
-title: How fast can you get stuck in the traffic jam?
+title: GIF explaining the world
 published: true
 ---
-
-## GIF explaining the world
 
 ### How fast can you get stuck in the traffic jam?
 [https://gph.is/2FbLJOO](https://gph.is/2FbLJOO "Via GIPHY")
