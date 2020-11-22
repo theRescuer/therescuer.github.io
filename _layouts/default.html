@@ -30,6 +30,12 @@
               {% else %}
               <a href="{{ site.baseurl }}/blog/">Blog</a>
               {% endif %}
+            
+            {% if page.url == "/about/" %}
+            <b><u><a href="{{ site.baseurl }}/about/">About</a></u></b>
+            {% else %}
+            <a href="{{ site.baseurl }}/about/">About</a>
+            {% endif %}
           </nav>
         </header>
       </div>
