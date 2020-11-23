@@ -1,4 +1,4 @@
-#EDI o *Blockchain* nella *Supply Chain*? #
+# EDI o *Blockchain* nella *Supply Chain*? #
 Potrebbe la *Blockchain* rimpiazzare l'EDI?
 La risposta dipende a sua volta dalle risposte ad altre domande
 - Quali sarebbero i vantaggi?
