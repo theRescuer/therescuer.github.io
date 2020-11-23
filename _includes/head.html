@@ -7,4 +7,23 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    
+    {% if page.url %}
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <meta name="author" content="{{site.name| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    {% elsif post.url %}
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    <meta name="author" content="{{post.author| strip_html}}">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">
+    {% endif %}
+    
+    {% if page.lang == "it"%}
+    <meta property="og:locale" content="it_IT">
+    {% else %}
+    <meta property="og:locale" content="en_GB">
+    {% endif %}
+    
 </head>
