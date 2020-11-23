@@ -24,7 +24,7 @@ La *blockchain* è un argomento di tendenza da ormai alcuni anni. Semplificando 
 - *Peers* distribuiti con le stesse identiche copie dei dati,
 - Crittografia,
 - Immodificabilità,
-- Irreversibilità.
+- Irreversibilità.  
 Questo rende questa tecnologia particolarmente sicura, sia in termini di manipolazione e resilienza agli attacchi, che di garanzia del recapito, contemplando inoltre la prova dell'originalità dei documenti.
 Grazie all'approccio di condivisione della cronistoria digitale, è sempre possibile tracciare chi ha effettuato quali modifiche e quando. Ciò garantisce una documentazione completa, irreversibile ed inalterabile. Tali caratterstiche sono riconosciute come di particolare valore nella gestione della *Supply Chain* e delle Identità digitali. Per esempio, l'origine di una partita di the potrebbe essere tracciata risalendo fino al campo in cui è avvenuta la coltivazione. I componenti di un autoveicolo potrebbere essere ricondotti ai rispettivi produttori tramite i loro lotti di produzione (prova dell'utilizzo di ricambi originali) e si potrebbe risalire a tutti i precedenti proprietari senza timore di manomissione.
 La gestione della situazione sopra descritta, con la connessione magari momentanea di nuovi trading partner sarebbe troppo complessa e lenta con l'EDI. Le *blockchain* possono essere estese rapidamente con *peer* aggiuntivi. Inoltre i *framework blockchain* facilitano la creazione di componenti di sistema che assumono rilevanza per la creazione di applicazioni distribuite e di *marketplace*, e vanno oltre la semplice conservazione dei dati nelle *blockchain*. Questo introduce direttamente il quesito:
