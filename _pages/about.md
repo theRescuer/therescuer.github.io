@@ -17,8 +17,7 @@ Nothing special.
 
 Married with two sons who just don't care about my public persona,
 
-Europass CV: <https://ametrano.net/cv/CV-Europass-20200626-Ametrano-EN.pdf>  
-Two pages CV: <https://ametrano.net/cv/FerdinandoAmetranoCV.pdf>
+Two pages CV: <https://salvatorelanza.org/cv/SalvatoreLanzaCV.pdf>
 
 **email contact form**: <https://bit.ly/ReachOutTheSaviour>
 
