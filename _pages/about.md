@@ -13,10 +13,6 @@ permalink: /about/
 
 ## Profile
 
-Nothing special.
-
-Married with two sons who just don't care about my public persona,
-
 Two pages CV: <https://salvatorelanza.org/cv/SalvatoreLanzaCV.pdf>
 
 **email contact form**: <https://bit.ly/ReachOutTheSaviour>
