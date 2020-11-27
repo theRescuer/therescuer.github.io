@@ -8,6 +8,21 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     
+    {% if page.image.main %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/pages_img/{{page.image.main}}">
+    {% if page.image.thumb %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/pages_img/{{page.image.thumb}}">
+    {% endif %}
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/20201127LanzaProfile.jpg">
+    {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="@AvallanoSterza">
+    <meta name="twitter:site" content="@AvallanoSterza">
+
+    <meta property="og:site_name" content="{{site.name| strip_html}}">
+    
     {% if page.url %}
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
