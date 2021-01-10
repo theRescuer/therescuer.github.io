@@ -37,7 +37,7 @@ Two pages CV: <https://salvatorelanza.org/cv/SalvatoreLanzaCV.pdf>
 
 ## Bitcoin Public Address
 
-address here  
+https://btc.slpay.it/api/v1/invoices?storeId=ETfi5ykqkehNhyoGbqdbZVQhcAR8e9WqSoemd6GHqFvX&price=10&currency=EUR  
 [![Bitcoin public address]({{ site.baseurl }}/images/btc-address.png)](bitcoin:address here)
 
 ---
