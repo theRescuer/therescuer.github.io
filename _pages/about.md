@@ -44,7 +44,7 @@ permalink: /about/
 ---
 
 ## POS
-<iframe src='https://btc.slpay.it/apps/3ej3DcKX5RhQagfgx2AjpHM9UEiy/pos' style='max-width: 100%; border: 0;'></iframe>
+<iframe src="https://btc.slpay.it/apps/3ej3DcKX5RhQagfgx2AjpHM9UEiy/pos" style="max-width: 100%; border: 0;"></iframe>
 
 ---
 
