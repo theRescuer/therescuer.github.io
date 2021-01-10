@@ -38,6 +38,7 @@ permalink: /about/
 ## Bitcoin Public Address (over BTCPAY, on &off-chain)
 
 [![Bitcoin public address]({{ site.baseurl }}/images/btcpay-paybutton.png)](https://btc.slpay.it/api/v1/invoices?storeId=ETfi5ykqkehNhyoGbqdbZVQhcAR8e9WqSoemd6GHqFvX&price=10&currency=EUR)
+
 <https://btc.slpay.it/api/v1/invoices?storeId=ETfi5ykqkehNhyoGbqdbZVQhcAR8e9WqSoemd6GHqFvX&price=10&currency=EUR>
 
 ---
